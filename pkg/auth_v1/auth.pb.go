@@ -582,7 +582,7 @@ const file_auth_proto_rawDesc = "" +
 	"\vVerifyEmail\x12\x1b.auth.v1.VerifyEmailRequest\x1a\x17.auth.v1.VerifyResponse\x12C\n" +
 	"\vVerifiPhone\x12\x1b.auth.v1.VerifyPhoneRequest\x1a\x17.auth.v1.VerifyResponse\x129\n" +
 	"\aRefresh\x12\x16.google.protobuf.Empty\x1a\x16.auth.v1.LoginResponse\x128\n" +
-	"\x06Logout\x12\x16.google.protobuf.Empty\x1a\x16.google.protobuf.EmptyB/Z-github.com/notanumer/auth/pkg/auth_v1;auth_v1b\x06proto3"
+	"\x06Logout\x12\x16.google.protobuf.Empty\x1a\x16.google.protobuf.EmptyB/Z-github.com/tvoybuket/auth/pkg/auth_v1;auth_v1b\x06proto3"
 
 var (
 	file_auth_proto_rawDescOnce sync.Once

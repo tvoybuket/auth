@@ -4,7 +4,7 @@ package auth.v1;
 
 import "google/protobuf/empty.proto";
 
-option go_package = "github.com/notanumer/auth/pkg/auth_v1;auth_v1";
+option go_package = "github.com/tvoybuket/auth/pkg/auth_v1;auth_v1";
 
 service AuthService {
     rpc LoginEmail(LoginEmailRequest) returns (LoginResponse);
